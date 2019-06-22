@@ -1,0 +1,56 @@
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.deps.json
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.json
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Korisnik\source\repos\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.deps.json
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.json
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Korisnik\Desktop\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.deps.json
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfo.cs
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CopyComplete
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Jovan\Downloads\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.json
+C:\Users\Jovan\Downloads\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.deps.json
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.json
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\EfDataAccess.pdb
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.dll
+C:\Users\Korisnik\Desktop\New folder (4)\proj_v3\proj\EfDataAccess\obj\Debug\netcoreapp2.1\EfDataAccess.pdb
