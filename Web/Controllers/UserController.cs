@@ -19,17 +19,20 @@ namespace Web.Controllers
         private readonly IGetUserCommand getUser;
         private readonly IEditUserCommand editUser;
         private readonly IDeleteUserCommand deleteUser;
+        private readonly IGetUsersCommand getUsers;
 
-        public UserController(ProjContext context, IAddUserCommand addUser, IGetUserCommand getUser, IEditUserCommand editUser, IDeleteUserCommand deleteUser)
+        public UserController(ProjContext context, IAddUserCommand addUser, IGetUserCommand getUser, IEditUserCommand editUser, IDeleteUserCommand deleteUser, IGetUsersCommand getUsers)
         {
             this.context = context;
             this.addUser = addUser;
             this.getUser = getUser;
             this.editUser = editUser;
             this.deleteUser = deleteUser;
+            this.getUsers = getUsers;
         }
 
-        /// private readonly IGetProductsCommand getUsers;
+
+
 
         // GET: User
         public ActionResult Index()
@@ -160,12 +163,12 @@ namespace Web.Controllers
             }
         }
 
-        public IActionResult Product()
+        public IActionResult User()
         {
-            var vm = new ProductViewModel();
-            var products = new List<ProductDTO>();
-            vm.Products = products;
-            return View(products);
+           /// var vm = new UserViewModel();
+           // var products = new List<ProductDTO>();
+           // vm.Products = products;
+           return View();
         }
 
 
